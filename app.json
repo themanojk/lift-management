@@ -1,0 +1,15 @@
+{
+  "name": "Lift Management",
+  "displayName": "Lift Management",
+  "expo": {
+    "name": "Lift Management",
+    "slug": "listManagement",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "in.lift.management",
+      "versionCode": 1
+    }
+  }
+}
